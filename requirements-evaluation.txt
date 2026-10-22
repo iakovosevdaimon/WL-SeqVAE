@@ -1,0 +1,4 @@
+-r requirements.txt
+fcd-torch>=1.0
+guacamol>=0.5
+pyemd>=1.0
